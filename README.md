@@ -1,1 +1,1 @@
-# supabase-intro-project
+# supabase-react-app
